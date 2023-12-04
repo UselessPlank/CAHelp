@@ -8,5 +8,5 @@ Week 11 - Extra Tasks
 
 2. Add Suitable Sort Icons from Bootstrap Icons
 https://icons.getbootstrap.com/
-![image](https://github.com/UselessPlank/CAHelp/assets/114073566/b0f7c4ec-aa79-47d7-9306-3b01c23629a2)
+![image](https://github.com/UselessPlank/CAHelp/assets/114073566/55aa491d-236b-4d9e-a16d-84469b2e2606)
 
