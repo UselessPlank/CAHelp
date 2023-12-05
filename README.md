@@ -1,9 +1,12 @@
 # CAHelp
 ---------
+
 SSWD Lab 11 w/ Search Functionality
+
 ---------
 
 Week 11 - Extra Tasks
+
 ---------
 
 1. Make the ID, Name, Description, Shared and Favourite Columns Sortable
@@ -15,7 +18,26 @@ Week 11 - Extra Tasks
 
 3. Use a Function or If Statement to Change the Icon in Order to Show the Right Direction
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/35fb410a-865d-4d24-8f82-b3cfa1892719)
-   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/485c930f-6f23-47b5-9167-5062abce19ff)
+
+   <thead>
+    <tr>
+        <th on:click={() => sortNumeric('id')} class:asc={$table_sort.id}><i class="bi bi-funnel-fill"></i> id</th>
+        <th on:click={() => sortAlpha('name')} class:asc={$table_sort.name}><i class="bi bi-emoji-wink"></i> Name</th>
+        <th on:click={() => sortAlpha('description')} class:asc={$table_sort.description}><i class="bi bi-book-half"></i> Description</th>
+        <th><i class="bi bi-airplane-fill"></i> Location (lat, long)</th>
+        <th on:click={() => sortAlpha('shared')} class:asc={$table_sort.shared}><i class="bi bi-share-fill"></i> Shared</th>
+        <th on:click={() => sortAlpha('favourite')} class:asc={$table_sort.favourite}><i class="bi bi-heart-fill"></i> Favourite</th>
+    </tr>
+</thead>
+
+Now, Add the Styling
+
+<style>
+    th.asc i {
+        transform: rotate(180deg); /* or any other style for the ascending icon */
+    }
+</style>
+
 ---------
 
 **Search Functionality**
@@ -31,6 +53,11 @@ Week 11 - Extra Tasks
 
    Replace 'your_table_name', 'column_to_search', and 'column_to_display' with my Supabase Table and Column Names
    
-5. Use SearchBar in SvelteKit Page: Add this code to the main 'page.svelte' where the Script & Functions are
+4. Use SearchBar in SvelteKit Page: Add this code to the main 'page.svelte' where the Script & Functions are
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/cb0f9bdf-e3c5-44e7-bdab-67735a18950f)
+
+
+---------
+
+
 
