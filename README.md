@@ -40,6 +40,11 @@ Now, Add the Styling
 
 ![SearchBar2](https://github.com/UselessPlank/CAHelp/assets/114073566/ce0696a8-c485-4a07-bcc2-ba87985bb8d3)
 
+![image](https://github.com/UselessPlank/CAHelp/assets/114073566/669c5267-0094-426f-96bf-58e7212e1a33)
+
+![image](https://github.com/UselessPlank/CAHelp/assets/114073566/fc2d1ec8-7846-4844-84c0-e6be208984d4)
+
+
 ---------
 
 Lab5 = supabase start using it
