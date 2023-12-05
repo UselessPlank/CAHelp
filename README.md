@@ -40,8 +40,6 @@ Now, Add the Styling
 
 ![SearchBar2](https://github.com/UselessPlank/CAHelp/assets/114073566/ce0696a8-c485-4a07-bcc2-ba87985bb8d3)
 
-
-
 ---------
 
 Lab5 = supabase start using it
@@ -49,4 +47,6 @@ Lab6 = Api and forms
 lab9 = Access Control
 lab10 = update and delete
 lab11 = sorting
+
+---------
 
