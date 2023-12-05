@@ -17,8 +17,6 @@ Week 11 - Extra Tasks
 ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/da9e47a9-9f77-42bd-81e3-282e698be95e)
 
 3. Use a Function or If Statement to Change the Icon in Order to Show the Right Direction
-   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/35fb410a-865d-4d24-8f82-b3cfa1892719)
-
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/f376c380-7f97-457b-9d60-881c0329c373)
 
 Now, Add the Styling
