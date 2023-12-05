@@ -14,3 +14,13 @@ Week 11 - Extra Tasks
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/35fb410a-865d-4d24-8f82-b3cfa1892719)
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/485c930f-6f23-47b5-9167-5062abce19ff)
 
+**Search Functionality**
+
+1. Install Dependencies: npm install @supabase/supabase-js
+2. Link the Supabase Using the .env File
+3. Create SearchBar Component: Create a new SvelteKit component called 'SearchBar.svelte' in the 'src/components/' Folder
+   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/77716491-615c-45e1-8542-f6e6b5f950d7)
+   Replace 'your_table_name', 'column_to_search', and 'column_to_display' with my Supabase Table and Column Names
+4. Use SearchBar in SvelteKit Page: Add this code to the main 'page.svelte' where the Script & Functions are
+   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/cb0f9bdf-e3c5-44e7-bdab-67735a18950f)
+
