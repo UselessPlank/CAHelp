@@ -44,5 +44,9 @@ Now, Add the Styling
 
 ---------
 
-
+Lab5 = supabase start using it
+Lab6 = Api and forms
+lab9 = Access Control
+lab10 = update and delete
+lab11 = sorting
 
