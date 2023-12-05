@@ -19,24 +19,12 @@ Week 11 - Extra Tasks
 3. Use a Function or If Statement to Change the Icon in Order to Show the Right Direction
    ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/35fb410a-865d-4d24-8f82-b3cfa1892719)
 
-   <thead>
-    <tr>
-        <th on:click={() => sortNumeric('id')} class:asc={$table_sort.id}><i class="bi bi-funnel-fill"></i> id</th>
-        <th on:click={() => sortAlpha('name')} class:asc={$table_sort.name}><i class="bi bi-emoji-wink"></i> Name</th>
-        <th on:click={() => sortAlpha('description')} class:asc={$table_sort.description}><i class="bi bi-book-half"></i> Description</th>
-        <th><i class="bi bi-airplane-fill"></i> Location (lat, long)</th>
-        <th on:click={() => sortAlpha('shared')} class:asc={$table_sort.shared}><i class="bi bi-share-fill"></i> Shared</th>
-        <th on:click={() => sortAlpha('favourite')} class:asc={$table_sort.favourite}><i class="bi bi-heart-fill"></i> Favourite</th>
-    </tr>
-</thead>
+   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/f376c380-7f97-457b-9d60-881c0329c373)
 
 Now, Add the Styling
 
-<style>
-    th.asc i {
-        transform: rotate(180deg); /* or any other style for the ascending icon */
-    }
-</style>
+   ![image](https://github.com/UselessPlank/CAHelp/assets/114073566/859f0f29-2647-434d-a541-426b133d2962)
+
 
 ---------
 
