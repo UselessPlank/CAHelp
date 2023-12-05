@@ -34,7 +34,7 @@ Now, Add the Styling
    
 2. Link the Supabase Using the .env File
    
-3. Add the Following Code into +page.svelte, the other file on here show's where :D
+3. Add the Following Code into 'routes/Locations' +page.svelte, the other file on here show's where :D
 
 ![SearchBar1](https://github.com/UselessPlank/CAHelp/assets/114073566/af93076b-412a-4825-9e13-6d4b94f4c23e)
 
